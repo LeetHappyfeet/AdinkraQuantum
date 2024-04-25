@@ -1,5 +1,5 @@
 # AdinkraQuantum
-
+![Project Logo](logo.jpg)
 AdinkraQuantum is a Python project that explores the application of quantum computing concepts to adinkra structures, aiming to uncover hidden dualities and metric shifts within the adinkra framework.
 
 ## Overview
